@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @comtinuewithyuzu
+- 👋 Hi, I’m @continuewithyuzu
 - 👀 I’m interested in PS4 and badminton
 - 🌱 I’m currently major in CS
 
