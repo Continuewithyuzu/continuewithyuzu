@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @continuewithyuzu
+- 👋 Hi, I’m @Continue
+- Common languages are Java and Python
+- 🌱 I’m currently major in Computer Science
 - 👀 I’m interested in PS4 and badminton
-- 🌱 I’m currently major in CS
+
 
 <!---
 comtinuewithyuzu/comtinuewithyuzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
